@@ -17,8 +17,6 @@
 #docker.n8n.io/n8nio/n8n:latest
 
 nacos/nacos-server:v2.1.0
-redis:5.0
-mysql:8.0
 elasticSearch:7.6.1
 kibana:7.6.1
 rocketmq:4.8.0
