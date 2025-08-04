@@ -19,4 +19,4 @@ mysql:8.4.3
 redis:5.0.1
 nacos/nacos-server:v2.1.0
 elasticSearch:7.6.1
-dify
+dify:1.4.3
