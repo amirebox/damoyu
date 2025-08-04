@@ -18,5 +18,7 @@
 mysql:8.4.3
 redis:5.0.1
 nacos/nacos-server:v2.1.0
-elasticSearch:v7.6.1
+elasticSearch.io/elasticSearch/elasticSearch:v7.6.1
 dify:v1.4.3
+langgenius/dify-api:v1.4.3
+langgenius/dify-web:v1.4.3
